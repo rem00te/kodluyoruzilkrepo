@@ -2,7 +2,7 @@
 
 bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adert README dosyası, bir adet de index.html barındırıyor.
 
-#Kurs 
+# Kurs 
 [patika.dev](https://patika.dev)
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
